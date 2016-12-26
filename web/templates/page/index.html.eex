@@ -20,16 +20,16 @@
   </div>
 
   <div class="col-lg-6">
-    <h4>Help</h4>
+    <h4>Links</h4>
     <ul>
       <li>
-        <a href="http://groups.google.com/group/phoenix-talk">Mailing list</a>
+        <a href="/posts">Posts</a>
       </li>
       <li>
-        <a href="http://webchat.freenode.net/?channels=elixir-lang">#elixir-lang on freenode IRC</a>
+        <a href="/users">Users</a>
       </li>
       <li>
-        <a href="https://twitter.com/elixirphoenix">@elixirphoenix</a>
+        <a href="/sessions/new">Login</a>
       </li>
     </ul>
   </div>
